@@ -1,0 +1,12 @@
+{
+  "name": "tiny-shop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A tiny store: product list, cart, coupons and checkout. No dependencies.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
